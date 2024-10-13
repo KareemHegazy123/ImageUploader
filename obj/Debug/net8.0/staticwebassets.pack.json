@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/02b7c4e0-1660-4130-9182-53746cb971b0.png",
+      "PackagePath": "staticwebassets/uploads/02b7c4e0-1660-4130-9182-53746cb971b0.png"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/1af99047-c0ae-4bac-83cd-35a2c3ea551a.jpg",
+      "PackagePath": "staticwebassets/uploads/1af99047-c0ae-4bac-83cd-35a2c3ea551a.jpg"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/1ecf5398-db9c-45cd-8ea1-3a2fd4d492f8.jpg",
+      "PackagePath": "staticwebassets/uploads/1ecf5398-db9c-45cd-8ea1-3a2fd4d492f8.jpg"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/3560975e-3acd-4404-a139-44b23f0715bf.jpg",
+      "PackagePath": "staticwebassets/uploads/3560975e-3acd-4404-a139-44b23f0715bf.jpg"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/47d6e5f3-5396-4d32-b963-d0f73b7c35f5.png",
+      "PackagePath": "staticwebassets/uploads/47d6e5f3-5396-4d32-b963-d0f73b7c35f5.png"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/50b4a712-fd44-4057-a308-efdf968cb71b.png",
+      "PackagePath": "staticwebassets/uploads/50b4a712-fd44-4057-a308-efdf968cb71b.png"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/7a7b7ab6-fc0e-48a3-aeec-5e20cb86c6c3.jpg",
+      "PackagePath": "staticwebassets/uploads/7a7b7ab6-fc0e-48a3-aeec-5e20cb86c6c3.jpg"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/91bf8a9f-29ce-4ce8-a271-64369e99a335.png",
+      "PackagePath": "staticwebassets/uploads/91bf8a9f-29ce-4ce8-a271-64369e99a335.png"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/9d75f8a2-10d7-491f-9f03-a10211b67abb.jpg",
+      "PackagePath": "staticwebassets/uploads/9d75f8a2-10d7-491f-9f03-a10211b67abb.jpg"
+    },
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/wwwroot/uploads/ec06b1c9-ee4b-4949-9e7e-46f00d4be59a.jpg",
+      "PackagePath": "staticwebassets/uploads/ec06b1c9-ee4b-4949-9e7e-46f00d4be59a.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ImageUploader.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ImageUploader.props",
+      "PackagePath": "build\\ImageUploader.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ImageUploader.props",
+      "PackagePath": "buildMultiTargeting\\ImageUploader.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ImageUploader.props",
+      "PackagePath": "buildTransitive\\ImageUploader.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
