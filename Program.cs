@@ -80,14 +80,43 @@ app.MapGet("/picture/{id}", async (string id) =>
     if (imageInfo == null) return Results.NotFound();
 
     // Render HTML to display image
-    var html = $@"
-    <html>
-    <head><title>{imageInfo.Title}</title></head>
-    <body>
+// Render HTML to display image with a styled upload button
+var html = $@"
+<html>
+<head>
+    <title>{imageInfo.Title}</title>
+    <style>
+        body {{
+            font-family: Arial, sans-serif;
+        }}
+        .header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }}
+        .upload-button {{
+            padding: 10px 20px;
+            font-size: 1.2em;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }}
+        .upload-button:hover {{
+            background-color: #0056b3;
+        }}
+    </style>
+</head>
+<body>
+    <div class='header'>
         <h1>{imageInfo.Title}</h1>
-        <img src='{imageInfo.Path}' alt='{imageInfo.Title}' />
-    </body>
-    </html>";
+        <button class='upload-button' onclick=""window.location.href='/'"">Upload New Picture</button>
+    </div>
+    <img src='{imageInfo.Path}' alt='{imageInfo.Title}' />
+</body>
+</html>";
+
 
     return Results.Content(html, "text/html");
 });

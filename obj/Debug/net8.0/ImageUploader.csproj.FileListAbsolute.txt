@@ -25,3 +25,4 @@
 /home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/obj/Debug/net8.0/ImageUploader.pdb
 /home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/obj/Debug/net8.0/ImageUploader.genruntimeconfig.cache
 /home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/obj/Debug/net8.0/ref/ImageUploader.dll
+/home/kareem/Desktop/SKT/Assignments/Assignment_2/ImageUploader/obj/Debug/net8.0/ImageUploader.sourcelink.json
